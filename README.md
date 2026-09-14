@@ -1,29 +1,185 @@
-Joshua Omosa
-Application Security Engineer | Systems Architect Specializing in Securing $SDLC$ and Resilient Cloud-Native Architectures 
-I am an Application Security Engineer focused on integrating development speed with robust security controls. By implementing a “Security as Code” approach, I design automated vulnerability management systems and hardened infrastructure to support high-performance production environments with minimal exploit exposure.
-________________________________________
-🛡️ Core Expertise & Impact
-I don't just write code—I improve the underlying systems that protect it. My recent work involves scaling security across enterprise-grade pipelines with measurable results:
-•	Scalability: Secured 120+ repositories across 18 unique $CI/CD$ pipelines.
-•	Visibility: Increased security scan coverage from 43% to 94% for all production builds.
-•	Remediation: Reduced Mean Time to Remediate (MTTR) from 21 days to 9 days via SLA-driven tracking.
-•	Precision: Achieved a 42% reduction in false positives through contextual exploitability validation.
-________________________________________
-🛠️ Tech Stack & Security Tooling
-I bridge the gap between low-level system efficiency and high-level security orchestration.
-•	Security Architecture: Automated Security Gates (SAST, DAST, SCA), Secrets Detection, and SBOM Governance.
-•	Cloud & Infrastructure: AWS IAM Hardening (Least-Privilege), Terraform (IaC Scanning), Docker/Container Security.
-•	Languages & Frameworks: Python, C#, PHP, C, SQL | .NET, Flask/FastAPI.
-•	Threat Modeling & Risk: STRIDE Threat Modeling and OPA (Open Policy Agent) rule enforcement.
-•	Monitoring: Splunk SIEM for application log analysis and security telemetry.
-________________________________________
-🚀 Featured Project: Enterprise DevSecOps Pipeline
-Scalable Vulnerability Management for 120+ Repositories This project demonstrates the integration of automated security gates into enterprise systems to shift security "left".
-•	Automated Gates: Enforcement of security stages in GitHub Actions and Jenkins.
-•	Infrastructure Hardening: Automated scanning of Terraform files to prevent cloud misconfigurations.
-•	Risk-Based Triage: Application of exploitability validation to ensure teams focus on reachable vulnerabilities.
-________________________________________
-📜 Philosophy & Certification
-As a certified professional, I apply theoretical knowledge and hands-on skills—refined through rigorous HackerRank challenges—to enterprise-level execution. I believe that "Code is read more often than it is written," which is why I prioritize the Repository Pattern and clear documentation to ensure software scales alongside the business.
-Would you like me to generate a specific "Tools & Technologies" table to further highlight your security certifications?
+# Joshua Omosa
 
+### Software Engineer | Application Security | DevSecOps | Cloud Security
+
+I build software and security systems with a focus on **application security, secure software delivery, security automation, and cloud-native infrastructure**.
+
+My work focuses on integrating security into the software development lifecycle through automated security controls, vulnerability management, secure CI/CD pipelines, infrastructure hardening, and policy enforcement.
+
+I am particularly interested in the intersection of **software engineering and security engineering**, where security controls can be designed as part of the system rather than added after development.
+
+---
+
+## Core Areas
+
+* **Application Security:** SAST, DAST, SCA, secrets detection, vulnerability management, SBOMs
+* **DevSecOps:** CI/CD security, automated security gates, security testing, pipeline automation
+* **Cloud Security:** AWS, IAM, least-privilege access, cloud architecture and hardening
+* **Infrastructure Security:** Terraform, Infrastructure as Code, Docker, container security
+* **Security Automation:** Python, REST APIs, automated security workflows and tooling
+* **Threat Modeling:** STRIDE, attack-surface analysis, security requirements
+* **Policy as Code:** Open Policy Agent (OPA), automated policy enforcement
+* **Security Monitoring:** Splunk, application telemetry, security event analysis
+
+---
+
+## Featured Projects
+
+### Enterprise DevSecOps Pipeline
+
+A security-focused CI/CD implementation demonstrating how application and infrastructure security controls can be integrated into the software delivery lifecycle.
+
+**Focus areas:**
+
+* Automated SAST, SCA and secrets detection
+* CI/CD security gates
+* Terraform and Infrastructure as Code security scanning
+* Container image security
+* Vulnerability prioritization and remediation workflows
+* Policy enforcement
+* Security reporting and pipeline feedback
+
+**Technologies:**
+`GitHub Actions` `Jenkins` `Python` `Terraform` `Docker` `SAST` `SCA` `OPA`
+
+[View Project](PROJECT_LINK)
+
+---
+
+### Cloud Security & Infrastructure
+
+Hands-on work focused on designing and securing cloud infrastructure through Infrastructure as Code and security-focused configuration.
+
+**Focus areas:**
+
+* AWS IAM and least-privilege access
+* Terraform
+* Infrastructure misconfiguration detection
+* Secure cloud configuration
+* Network and resource isolation
+* Policy enforcement
+* Infrastructure security automation
+
+**Technologies:**
+`AWS` `Terraform` `OPA`
+
+[View Project](PROJECT_LINK)
+
+---
+
+### Security Automation
+
+Development of security-focused automation and tooling designed to reduce repetitive operational tasks and improve the consistency of security workflows.
+
+**Focus areas:**
+
+* Python automation
+* REST API integrations
+* Vulnerability processing
+* Security workflow automation
+* Data processing and reporting
+* Developer-oriented security tooling
+
+**Technologies:**
+`Python` `FastAPI` `Flask` `REST APIs`
+
+[View Project](PROJECT_LINK)
+
+---
+
+## Engineering Approach
+
+I approach security as an engineering discipline.
+
+The systems I build aim to make security controls:
+
+* **Automated** where practical
+* **Repeatable** across environments
+* **Risk-based** rather than dependent solely on severity scores
+* **Observable** through meaningful telemetry
+* **Reproducible** through Infrastructure and Security as Code
+* **Maintainable** through clear architecture and documentation
+
+I value engineering practices that make systems easier to secure, operate, test, and maintain.
+
+---
+
+## Technologies
+
+| Category               | Technologies                             |
+| ---------------------- | ---------------------------------------- |
+| Languages              | Python, C#, PHP, C, SQL                  |
+| Frameworks             | .NET, Flask, FastAPI                     |
+| Cloud                  | AWS                                      |
+| Infrastructure as Code | Terraform                                |
+| Containers             | Docker                                   |
+| CI/CD                  | GitHub Actions, Jenkins                  |
+| Application Security   | SAST, DAST, SCA, Secrets Detection, SBOM |
+| Policy                 | Open Policy Agent (OPA)                  |
+| Threat Modeling        | STRIDE                                   |
+| Monitoring & SIEM      | Splunk                                   |
+| Version Control        | Git, GitHub                              |
+
+---
+
+## Software Engineering
+
+My security work is supported by a broader software engineering foundation.
+
+I build applications, APIs, automation tools, and backend systems with an emphasis on:
+
+* Clean architecture
+* Maintainability
+* Testing
+* API design
+* Data handling
+* Secure coding practices
+* Version control
+* Documentation
+
+I am particularly interested in building security tooling that integrates naturally into existing engineering workflows.
+
+---
+
+## Security Engineering
+
+My security projects cover the lifecycle from **identification and prevention through detection and remediation**.
+
+Areas of hands-on work include:
+
+* Application security
+* Vulnerability management
+* Secure CI/CD
+* Cloud security
+* Infrastructure security
+* Container security
+* Threat modeling
+* Security automation
+* Security monitoring
+* Incident investigation
+
+Project repositories include implementation details, architecture, configuration, testing, security considerations, and documented results where applicable.
+
+---
+
+## Certifications & Continuous Learning
+
+I continuously develop my engineering and security capabilities through hands-on projects, technical challenges, security labs, certifications, and independent study.
+
+My approach is:
+
+**Learn → Build → Test → Secure → Automate → Document**
+
+---
+
+## Professional Interests
+
+I am interested in opportunities across:
+
+**Software Engineering · Application Security · DevSecOps · Cloud Security · Security Engineering**
+
+---
+
+## Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email](YOUR_EMAIL)
