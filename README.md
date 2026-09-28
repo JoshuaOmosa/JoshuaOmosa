@@ -23,69 +23,7 @@ I am particularly interested in the intersection of **software engineering and s
 
 ---
 
-## Featured Projects
 
-### Enterprise DevSecOps Pipeline
-
-A security-focused CI/CD implementation demonstrating how application and infrastructure security controls can be integrated into the software delivery lifecycle.
-
-**Focus areas:**
-
-* Automated SAST, SCA and secrets detection
-* CI/CD security gates
-* Terraform and Infrastructure as Code security scanning
-* Container image security
-* Vulnerability prioritization and remediation workflows
-* Policy enforcement
-* Security reporting and pipeline feedback
-
-**Technologies:**
-`GitHub Actions` `Jenkins` `Python` `Terraform` `Docker` `SAST` `SCA` `OPA`
-
-[View Project](PROJECT_LINK)
-
----
-
-### Cloud Security & Infrastructure
-
-Hands-on work focused on designing and securing cloud infrastructure through Infrastructure as Code and security-focused configuration.
-
-**Focus areas:**
-
-* AWS IAM and least-privilege access
-* Terraform
-* Infrastructure misconfiguration detection
-* Secure cloud configuration
-* Network and resource isolation
-* Policy enforcement
-* Infrastructure security automation
-
-**Technologies:**
-`AWS` `Terraform` `OPA`
-
-[View Project](PROJECT_LINK)
-
----
-
-### Security Automation
-
-Development of security-focused automation and tooling designed to reduce repetitive operational tasks and improve the consistency of security workflows.
-
-**Focus areas:**
-
-* Python automation
-* REST API integrations
-* Vulnerability processing
-* Security workflow automation
-* Data processing and reporting
-* Developer-oriented security tooling
-
-**Technologies:**
-`Python` `FastAPI` `Flask` `REST APIs`
-
-[View Project](PROJECT_LINK)
-
----
 
 ## Engineering Approach
 
@@ -177,9 +115,3 @@ My approach is:
 I am interested in opportunities across:
 
 **Software Engineering · Application Security · DevSecOps · Cloud Security · Security Engineering**
-
----
-
-## Connect
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](YOUR_EMAIL)
