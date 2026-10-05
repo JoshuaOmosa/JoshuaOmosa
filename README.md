@@ -25,6 +25,35 @@ I am particularly interested in the intersection of **software engineering and s
 
 
 
+## Featured Projects
+
+### Security & DevSecOps
+
+| Project | What it is | Stack |
+| ------- | ---------- | ----- |
+| [**Devsecops-gate**](https://github.com/JoshuaOmosa/Devsecops-gate) | CI/CD security gate that ranks findings by exploitability, enforces severity-based SLA windows with OPA policy, and blocks unverified builds | GitHub Actions, OPA/Rego, Terraform, Checkov, Docker |
+| [**Isolated-Sandbox**](https://github.com/JoshuaOmosa/Isolated-Sandbox) | Locked-down Docker sandboxes for running and grading AI-agent code: read-only root, no network, custom seccomp allowlist, dropped capabilities, resource ceilings | Python, Docker, seccomp, Pytest |
+
+### Applied AI (local-first, privacy-preserving)
+
+| Project | What it is | Stack |
+| ------- | ---------- | ----- |
+| [**MedgemmaV2**](https://github.com/JoshuaOmosa/MedgemmaV2) | Offline clinical voice-to-SOAP pipeline with input/output guardrails, network isolation checks, and a written threat model | Python, Whisper, MedGemma, NeMo Guardrails, Docker |
+| [**medgemma-aegis**](https://github.com/JoshuaOmosa/medgemma-aegis) | Clinician-facing scribe: record, transcribe, draft a SOAP note, review, and export as FHIR R4 | Python, Streamlit, Whisper, MedGemma, FHIR |
+| [**aimo-marks-v1**](https://github.com/JoshuaOmosa/aimo-marks-v1) | LoRA fine-tune of DeepSeek-Math-7B for step-by-step math reasoning, 4-bit quantized for consumer GPUs | PyTorch, PEFT/LoRA, bitsandbytes, Gradio |
+
+### Full-Stack Applications
+
+| Project | What it is | Stack |
+| ------- | ---------- | ----- |
+| [**kelly-rogers**](https://github.com/JoshuaOmosa/kelly-rogers) | Production site and practice-management workflow for a private psychotherapy practice: intake, admin dashboard, quotes, payments, automated follow-ups ([live](https://kelly-rogers-one.vercel.app)) | Next.js, TypeScript, Supabase, Paystack, Resend |
+| [**socialsNETTs**](https://github.com/JoshuaOmosa/socialsNETTs) | Brand-monitoring and social intelligence dashboard: mentions, sentiment, crisis tracking, reporting | Next.js, TypeScript, Django REST |
+| [**NexusCore**](https://github.com/JoshuaOmosa/NexusCore) | Patient-records backend demonstrating the Repository pattern, env-based config, and prepared statements, with tests | PHP 8, PDO, MySQL |
+
+More (game prototypes in Godot, tooling experiments) are in the [repository list](https://github.com/JoshuaOmosa?tab=repositories).
+
+---
+
 ## Engineering Approach
 
 I approach security as an engineering discipline.
@@ -46,8 +75,9 @@ I value engineering practices that make systems easier to secure, operate, test,
 
 | Category               | Technologies                             |
 | ---------------------- | ---------------------------------------- |
-| Languages              | Python, C#, PHP, C, SQL                  |
-| Frameworks             | .NET, Flask, FastAPI                     |
+| Languages              | Python, TypeScript, C#, PHP, C, SQL      |
+| Frameworks             | .NET, Flask, FastAPI, Django, Next.js    |
+| AI / ML                | PyTorch, Hugging Face, Whisper, LoRA     |
 | Cloud                  | AWS                                      |
 | Infrastructure as Code | Terraform                                |
 | Containers             | Docker                                   |
